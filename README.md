@@ -40,7 +40,7 @@ and move to the next and previous questions via the buttons provided down below.
 - read all selected options
 - stop
 ### Object Detection Page
-![image](https://github.com/keshav-06/Assisted-Vision/assets/87660591/4ac0664b-978b-44d4-af26-4b7b41b3485c)
+![image](https://github.com/SakshamJain9999/Assisted-Vision/blob/main/public/image.png)
 
 - As soon as the page opens up, the camera turns on after loading
 - the system starts detecting whatever is in front of the camera and reads it out loud
