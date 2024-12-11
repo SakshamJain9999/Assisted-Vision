@@ -41,6 +41,7 @@ and move to the next and previous questions via the buttons provided down below.
 - stop
 ### Object Detection Page
 ![image](https://github.com/SakshamJain9999/Assisted-Vision/blob/main/public/image.png)
+![image](https://github.com/SakshamJain9999/Assisted-Vision/blob/main/public/image1.png)
 
 - As soon as the page opens up, the camera turns on after loading
 - the system starts detecting whatever is in front of the camera and reads it out loud
